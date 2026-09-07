@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 uploads/
-
+test.db
 
 # C extensions
 *.so
